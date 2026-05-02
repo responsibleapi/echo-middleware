@@ -13,10 +13,10 @@ This is _intended_ to be used with code that's generated through [`oapi-codegen`
 You can add the middleware to your project with:
 
 ```sh
-go get github.com/oapi-codegen/echo-middleware
+go get github.com/responsibleapi/echo-middleware
 ```
 
-There is a full example of usage in [the Go doc for this project](https://pkg.go.dev/github.com/oapi-codegen/echo-middleware#pkg-examples).
+There is a full example of usage in [the Go doc for this project](https://pkg.go.dev/github.com/responsibleapi/echo-middleware#pkg-examples).
 
 A simplified version of this code is as follows:
 

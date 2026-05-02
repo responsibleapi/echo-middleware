@@ -1,4 +1,4 @@
-module github.com/oapi-codegen/echo-middleware
+module github.com/responsibleapi/echo-middleware
 
 go 1.25.0
 
